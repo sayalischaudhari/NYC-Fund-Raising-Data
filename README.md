@@ -1,9 +1,9 @@
-## NYC-Fund-Raising-Data
+# NYC-Fund-Raising-Data
 The dataset is a list of all the individual donors (no super-pacs) from the state of New York that donated money to the any of the candidates.
 
-# Dataset overview
+## Dataset overview
 
-# Dataset- NYC.csv 
+## Dataset- NYC.csv 
 
 • NYC dataset consist of 649460 rows and 18 columns
 
@@ -43,7 +43,7 @@ tran_id               object
 
 election_tp           object
 
-# Questions Answered
+## Questions Answered
 
 1.	Whether its possible to identify the 'Party' for each candidate (data wrangling)?
 
